@@ -715,6 +715,6 @@
 	<modules>
 		<module>codes-common</module>
 		<module>codes-persistent-hibernate</module>
-		<!-- <module>codes-platform</module> -->
+		<module>codes-platform</module>
 	</modules>
 </project>
